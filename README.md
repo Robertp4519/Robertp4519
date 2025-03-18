@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Retrostorm
 - 👀 I’m interested in gaming, gamedev, webdev, and server-side development. 
-- 🌱 I’m currently learning gamedev with Godot, gamedev with Unity soon (hopefully), and how to use Git and Github. 
-- 💞️ I’m looking to collaborate on open source projects and gamedev projects. 
+- 🌱 I’m currently learning Java, Webdev, and how to use Git and Github. 
+- 💞️ I’m looking to collaborate on open source and free software projects. 
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can solve a Rubik's cube in around 30-35 seconds. 
