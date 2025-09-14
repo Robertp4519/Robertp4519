@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Robert
-- 👀 I’m interested in gaming, gamedev, webdev, and server-side development. 
+- 👀 I’m interested in webdev, embedded software and server-side development. 
 - 🌱 I’m currently learning Java, Maven, Webdev, and how to use Git and Github. 
 - 💞️ I’m looking to collaborate on open source and free software projects. 
 - 📫 How to reach me ...
